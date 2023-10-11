@@ -1,5 +1,5 @@
 esphome:
-  name: "luftrenser-kontor"
+  name: "ikea-fornuftig"
 
 esp8266:
   board: d1_mini
